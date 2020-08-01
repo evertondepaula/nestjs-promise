@@ -78,7 +78,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Comparison: synchronous resources vs. asynchronous resources
 
 ### Async get users
-[Asycn Get Users]: https://drive.google.com/file/d/1HzojXibIB8EWfxZmuGUUWLZKY7Q3s6Qk/view?usp=sharing
+<p align="center">
+  <a href="https://drive.google.com/file/d/1HzojXibIB8EWfxZmuGUUWLZKY7Q3s6Qk/view?usp=sharing" target="blank"><img src="https://drive.google.com/file/d/1HzojXibIB8EWfxZmuGUUWLZKY7Q3s6Qk/view?usp=sharing" width="100%" alt="Async Get Users" /></a>
+</p>
 
 ### Sync get Users
-[Sync Get Users]: https://drive.google.com/file/d/1nsszcKiZvb3Nql0Pis2qklCbiu2GwMCM/view?usp=sharing
+<p align="center">
+  <a href="https://drive.google.com/file/d/1nsszcKiZvb3Nql0Pis2qklCbiu2GwMCM/view?usp=sharing" target="blank"><img src="https://drive.google.com/file/d/1nsszcKiZvb3Nql0Pis2qklCbiu2GwMCM/view?usp=sharing" width="100%" alt="Sync Get Users" /></a>
+</p>
